@@ -18,6 +18,7 @@ public class ApiController {
     private static final String URL_CAT = "https://api.thecatapi.com/v1/images/search";
     private static final String URL_JOKE = "http://rzhunemogu.ru/RandJSON.aspx?CType=";
     private static final String KEY_URL = "url";
+
     private static final String KEY_CONTENT = "content";
 
     public SendMessage getJoke(String chatId, Long typeOfMessage) throws IOException {
