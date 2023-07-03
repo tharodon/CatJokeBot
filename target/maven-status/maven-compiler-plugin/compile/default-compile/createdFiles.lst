@@ -1,0 +1,8 @@
+ru\liga\bot\Bot.class
+ru\liga\bot\command\ServiceCommand.class
+ru\liga\bot\command\StartCommand.class
+ru\liga\bot\connection\ApiController.class
+ru\liga\bot\buttons\Button.class
+ru\liga\bot\command\HelpCommand.class
+ru\liga\bot\keyboard\ReplyKeyboardMaker.class
+ru\liga\App.class
